@@ -14,5 +14,3 @@ end)
 Section:NewButton("Second Best Script For AWS", "Event Farms, Visuals ETC", function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/limaspeedy/limaspeedy/main/HubLDS"))()
 end)
-
-
